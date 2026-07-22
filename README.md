@@ -44,7 +44,7 @@ This project uses the **`world`** database, a standard MySQL sample dataset with
 17. Countries with low population density
 18. Cities ranked 31st–40th by population
 
-Full query text and explanations are in [`world_db_queries.md`](./world_db_queries.md).
+Full query text and explanations are in https://supabase.com/dashboard/project/ykmsbdjmgxixjgkprbuc/sql/e0b381d6-f879-493c-8eac-1b42762bbfed.
 
 ## Sample Query
 

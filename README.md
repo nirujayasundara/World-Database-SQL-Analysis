@@ -1,7 +1,7 @@
 
 # World Database SQL Analysis
 
-A collection of SQL queries analyzing global demographic data — countries, cities, and languages — using MySQL's classic `world` sample database. Built as a junior data analyst exercise simulating real requests from clients like travel agencies, real estate firms, health initiatives, and research institutes.
+A collection of SQL queries analyzing global demographic data — countries, cities, and languages  using MySQL's classic `world` sample database. Built as a junior data analyst exercise simulating real requests from clients like travel agencies, real estate firms, health initiatives, and research institutes.
 
 Each task below follows a **Business Question → SQL Approach → Key Finding → Recommendation** structure to mirror how analysis is communicated in a real workplace.
 https://supabase.com/dashboard/project/ykmsbdjmgxixjgkprbuc/sql/e0b381d6-f879-493c-8eac-1b42762bbfed

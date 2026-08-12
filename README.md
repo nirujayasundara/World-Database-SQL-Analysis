@@ -36,7 +36,7 @@ FROM city
 WHERE CountryCode = 'USA';
 ```
 
-**Key Finding:** `[fill in from your result]` cities recorded in the database for the USA.
+**Key Finding:** `274 cities recorded in the database for the USA.
 
 **Recommendation:** Use this count as the denominator for any per-city or per-capita comparisons in later USA-focused analysis. If the number seems low relative to real-world city counts, flag that the `world` database only includes larger/notable cities, not every incorporated municipality.
 

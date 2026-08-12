@@ -53,7 +53,7 @@ ORDER BY LifeExpectancy DESC
 LIMIT 1;
 ```
 
-**Key Finding:** `Antactica` has the highest recorded life expectancy at `[X]` years.
+**Key Finding:** `Antactica` has the highest recorded life expectancy.
 
 **Recommendation:** Rather than treating this as a target for intervention, use it as a benchmark — compare other countries' life expectancy against this ceiling to identify the biggest gaps and prioritize healthcare funding toward countries furthest below it.
 

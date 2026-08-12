@@ -53,7 +53,7 @@ ORDER BY LifeExpectancy DESC
 LIMIT 1;
 ```
 
-**Key Finding:** `[fill in from your result]` has the highest recorded life expectancy at `[X]` years.
+**Key Finding:** `Antactica` has the highest recorded life expectancy at `[X]` years.
 
 **Recommendation:** Rather than treating this as a target for intervention, use it as a benchmark — compare other countries' life expectancy against this ceiling to identify the biggest gaps and prioritize healthcare funding toward countries furthest below it.
 
@@ -69,7 +69,7 @@ FROM city
 WHERE Name LIKE '%New%';
 ```
 
-**Key Finding:** `[fill in — number of cities returned, and a few notable examples e.g. New York, New Delhi]`
+**Key Finding:** `13 countries came as cities have New in their name, and a few notable examples e.g. New York, New Delhi`
 
 **Recommendation:** Segment the results by population size before building promotional materials — lead marketing spend with the largest, most recognizable cities (e.g. New York, New Delhi) to maximize campaign reach, and use smaller "New ___" cities as niche/off-the-beaten-path content.
 
@@ -86,7 +86,8 @@ ORDER BY Population DESC
 LIMIT 10;
 ```
 
-**Key Finding:** `[fill in — list top 3–5 cities and populations]`
+**Key Finding:** ``<img width="1580" height="857" alt="Screenshot 2026-07-16 132050" src="https://github.com/user-attachments/assets/73d28a12-3c87-4a17-aff2-0e235d741e97" />
+
 
 **Recommendation:** These top 10 cities represent the highest-density urban markets globally — prioritize them for any analysis requiring maximum population coverage with minimal data points (e.g. quick-turnaround executive summaries).
 
@@ -103,7 +104,8 @@ WHERE Population > 2000000
 ORDER BY Population DESC;
 ```
 
-**Key Finding:** `[fill in — total count of cities matching, plus range]`
+**Key Finding:** `<img width="1527" height="732" alt="Screenshot 2026-07-16 132408" src="https://github.com/user-attachments/assets/216d8acb-8a19-4a57-a972-a20adf87d8b7" />
+
 
 **Recommendation:** Treat this list as the initial investment shortlist, then layer in economic indicators (GNP, government stability) from the `country` table to rank cities by investment attractiveness rather than population alone — a large city isn't automatically a good investment target.
 
